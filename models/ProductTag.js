@@ -20,8 +20,7 @@ ProductTag.init(
         key: 'id',
         unique: false,
       },
-    }
-    references: 
+    },
   },
   {
     sequelize,
